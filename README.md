@@ -13,3 +13,5 @@ the scissors photo
 Karolina Grabowska
 instagram: kaboompics
 http://kaboompics.com
+
+Live preview of the webpage: https://alo55.github.io/Project-Rock-Paper-Scissors/
